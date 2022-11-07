@@ -1,2 +1,1 @@
-# Tracker
- Tracking what and where ive learned new skills
+Tracking what and where ive learned new skills
