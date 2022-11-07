@@ -2,6 +2,6 @@
 
 ### Tracking what and where ive learned new skills
 
-| Status | Date | Corse |
-| :---: | :---: | :---: |
-| [ ] | | [LearnCpp.com](LearnCpp.com) | 
+| What | Status | Date | Corse |
+| :---: | :---: | :---: | :---: |
+| C++ | [ ] | | [LearnCpp.com](LearnCpp.com) | 
